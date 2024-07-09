@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello
 
-<!--
-**jpiaskowski/jpiaskowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Julia Piaskowski, a statistician at the University of Idaho, College of Agriculture and Life Sciences. I try to provide resources to support high quality analysis of agriculture studies and adjacent research. I view myself as a 'user advocate' attempting to bridge the gap between complex statistical methodologies/tools and what users actually need to use those. I'm also a Software Carpentries certified instructor. 
 
-Here are some ideas to get you started:
+#### Some Resources I maintain or help maintain :wrench:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Agriculture CRAN Task View](https://CRAN.R-project.org/view=Agriculture): to find that R package supporting your agriculture research needs. 
+- [Mixed Model CRAN Task View)(https://CRAN.R-project.org/view=MixedModels): to find that mixed modellling package in R
+- [Introductory R for Scientists](https://idahoagstats.github.io/r-for-ag-scientists/): zero-to-hero coursework content for learning R!
+- [University of Idaho Agricultural Statistics Resources Website](https://agstats.io/): collection of tutorials, workshops and blog posts supporting analysis of research data
+- [Field Guide to Incorporating Spatial Covariates into Analysis of Planned Field Experiments]([Agricultural Field Experiments](https://idahoagstats.github.io/guide-to-field-trial-spatial-analysis/) 
+- [Irregular Newsletter on Ag Stats](https://buttondown.email/Uidaho-stat-programs): sent a few times per year
+- [WAVE: Western Agriculture Variety Explorer](www.westernagdata.org): for accessing variety testing data from Idaho, Oregon and Washington
+
+#### Other Stuff  :speech_balloon:
+
+I'm currently working on building guides to linear mixed modelling, *generalized* linear mixed modelling and reproducible research for busy scientists (links forthcoming when the resources are complete). 
+
+My [personal website](https://jpiaskowski.gitlab.io/) is actually deployed through GitLab, but I use GitHub for most things. I'm currently working on a new theme for my website (hello, scss!), so the current website is not being maintained since a changeover is planned. I also blog on prison and criminal justice issues [here](www.idahoprisonproject.org). 
