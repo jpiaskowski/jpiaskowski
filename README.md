@@ -16,4 +16,4 @@ I'm Julia Piaskowski, a statistician at the University of Idaho, College of Agri
 
 I'm currently working on building guides to linear mixed modelling, *generalized* linear mixed modelling and reproducible research for busy scientists (links forthcoming when the resources are complete). 
 
-My [personal website](https://jpiaskowski.gitlab.io/) is actually deployed through GitLab, but I use GitHub for most things. I'm currently working on a new theme for my website (hello, scss!), so the current website is not being maintained since a changeover is planned. I also blog on prison and criminal justice issues [here](www.idahoprisonproject.org). 
+My [personal website](https://jpiaskowski.gitlab.io/) is actually deployed through GitLab, but I use GitHub for most things. I also blog on prison and criminal justice issues [here](www.idahoprisonproject.org). 
